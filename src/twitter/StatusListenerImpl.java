@@ -11,7 +11,7 @@ public class StatusListenerImpl implements StatusListener{
 	}
 
 	public void onException(Exception e) {
-		e.printStackTrace();
+//		e.printStackTrace();
 	}
 
 	public void onStatus(Status status) {
