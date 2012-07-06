@@ -1,0 +1,8 @@
+target/*
+bin/*
+bin
+target
+*.properties
+.classpath
+.project
+.settings
